@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kweonsikyung
 - 👀 @soongsil univ. IT. Global Media.
-- 🌱 WEB/APP Front-end
+- 🌱 
 - 💞️ 
 - 📫 How to reach me ...
 
