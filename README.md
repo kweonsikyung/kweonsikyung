@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kweonsikyung
-- 👀 @soongsil univ. IT. Global Media.
-- 🌱 
-- 💞️ 
-- 📫 How to reach me ...
+- 👀 @soongsil univ. IT. Global Media. 
+
 <h3>📚practice</h3></div>
 
 <div> 
