@@ -7,7 +7,7 @@
 <li>SSU DevCamp. 22sdc-usaint-viewer team WebFE Developer</li>
 </ul>
 
-<p>📚practice</p></div>
+<div>📚practice</div>
 <div> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
