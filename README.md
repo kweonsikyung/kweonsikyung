@@ -1,7 +1,7 @@
 👋 Hi, I’m @kweonsikyung
 <div>👀About me...</div>
 <ul>
-<li>@soongsil univ. IT. Global Media(2021.03.~</li>
+<li>@soongsil univ. IT. Global Media(2021.03.~)</li>
 <li>Google Developer Student Clubs(GDSC) Soongsil 2nd Memeber(2022.09.~)</li>
 <li>SSG Retail tech Cording Class 4th Mentor(2022.09.~)</li>
 <li>SSU DevCamp WebFE Developer at 22sdc usaint viewer team(2022.08.-2022.09.)</li>
