@@ -2,9 +2,9 @@
 <div>👀About me...</div>
 <ul>
 <li>@soongsil univ. IT. Global Media</li>
-<li>Google Depveloper Student Club(GDSC) Soongsil 2nd Memeber</li>
+<li>Google Developer Student Clubs(GDSC) Soongsil 2nd Memeber</li>
 <li>SSG Retail tech Cording Class 4th Mentor</li>
-<li>SSU DevCamp. 22sdc-usaint-viewer team WebFE Developer</li>
+<li>SSU DevCamp WebFE Developer at 22sdc usaint viewer team </li>
 </ul>
 
 <div>📚practice</div>
