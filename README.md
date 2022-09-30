@@ -1,4 +1,5 @@
 👋 Hi, I’m @kweonsikyung
+
 <div>👀About me...</div>
 <ul>
 <li>@soongsil univ. IT. Global Media(2021.03.~)</li>
@@ -7,7 +8,7 @@
 <li>SSU DevCamp WebFE Developer at 22sdc usaint viewer team(2022.08.-2022.09.)</li>
 </ul>
 
-<div>📚practice</div>
+<div>📚Practice</div>
 <div> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
