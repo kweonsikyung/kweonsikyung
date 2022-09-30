@@ -1,5 +1,5 @@
 👋 Hi, I’m @kweonsikyung
-👀About me...
+<div>👀About me...</div>
 <ul>
 <li>@soongsil univ. IT. Global Media</li>
 <li>Google Depveloper Student Club(GDSC) Soongsil 2nd Memeber</li>
