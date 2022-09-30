@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 </div>
 
-<p>experience<p><div>
+<div>
+<p>👑experience<p><div>
 <ul>
 <li>Google Depveloper Student Club(GDSC) Soongsil 2nd Memeber</li>
 <li>SSG Retail tech Cording Class 4th Mentor</li>
