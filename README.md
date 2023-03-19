@@ -3,7 +3,8 @@
 <div>👀About me...</div>
 <ul>
 <li>@soongsil univ. IT. Global Media(2021.03.~)</li>
-<li>Google Developer Student Clubs(GDSC) Soongsil 2nd Member(2022.09.~)</li>
+<li>Google Developer Student Clubs(GDSC) 2nd Web/Mobile Member(2022.09.~)</li>
+<li>MakeUs Challenge(UMC) 4th Springboot Member(2023.03.~)</li>
 <li>SSG Retail tech Cording Class 4th Mentor(2022.09.~2023.01)</li>
 </ul>
 
