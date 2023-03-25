@@ -12,7 +12,7 @@
 <div> 
   <img src="https://img.shields.io/badge/c++-00599C?style=plastic-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=Java&logoColor=white"/>
   <br>
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=plastic-square&logo=html5&logoColor=white"> 
