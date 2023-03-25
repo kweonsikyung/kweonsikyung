@@ -8,7 +8,7 @@
 <li>SSG Retail tech Cording Class 4th Mentor(2022.09.~2023.01)</li>
 </ul>
 
-<div>📚Practice</div>
+<div>📚Tech Stack</div>
 <div> 
   <img src="https://img.shields.io/badge/c++-00599C?style=plastic-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic-square&logo=python&logoColor=white"> 
