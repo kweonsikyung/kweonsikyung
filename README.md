@@ -1,1 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17&height=150&section=header&text=Good%20to%20see%20you%20🤗&desc=I'm%20sikyung,%20FE%20Developer&fontSize=40&fontAlignY=40&descSize=25&descAlignY=70&animation=fadeIn)
+👋🏻Hi, I'm @kweonsikyung
+👀to infinity and beyond
+ 
+ - FE developer `typescript` `react`  `next.js`  
+ - @soongsil univ. IT. Global Media
+ - Google Developer Student Clubs(GDSC) 2nd `Web/Mobile` 
+ - MakeUs Challenge(UMC) 4th `Springboot`
+ - SSG Retail tech Cording Class 4th Mentor `Arduino`
+
