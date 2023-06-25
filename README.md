@@ -1,5 +1,5 @@
-👋🏻Hi, I'm @kweonsikyung
-👀to infinity and beyond
+👋🏻 Hi, I'm @kweonsikyung </br>
+👀 To infinity and beyond
  
  - FE developer `typescript` `react`  `next.js`  
  - @soongsil univ. IT. Global Media
