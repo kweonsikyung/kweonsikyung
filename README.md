@@ -1,12 +1,11 @@
 <details>
   <summary><b>Hi, I'm here!🌈🔥🌊🍔🏝️</b></summary>
   <div><sub>🔥 '25 Cloudclub 7th Member <code>-ing</code></sub></div>
-  <div><sub>📚 '25 <a href="https://learning.sap.com/certifications/sap-certified-associate-back-end-developer-abap-cloud">SAP Back-End Developer(ABAP Cloud)</a> 교육 <code>-ing</code></sub></div>
+  <div><sub>📚 '25 <a href="https://learning.sap.com/certifications/sap-certified-associate-back-end-developer-abap-cloud">SAP Certified Associate - Back-End Developer - ABAP Cloud</a></sub></div>
   <div><sub>📊 '25 SQLD</sub></div>
   <div><sub>🏆 '24 스마트해상물류경진대회 - <a href="https://usmac.or.kr/prog/award/kor/01/sub02_02_01/view.do;jsessionid=3CBD7F5EE9DE2A37C3EDBDA61A5258DA">해양수산부 장관상</a></sub></div>
   <div><sub>🏆 '24 숭실대학교 IT프로젝트 - IT대학 학부장상 최우수상</sub></div>
   <div><sub>📚 '24 스프링부트 기반 핀테크 서비스 과정(200h) 수료</sub></div>
-  <div><sub>🏆 '24 SKT x 하나금융 TECH4GOOD 해커톤 - 아이디어상</sub></div>
   <div><sub>🔥 '22-'24 GDSC Web/Mobile Member</sub></div>
   <div><sub>👩🏻‍💻 '23 <a href="https://thesmc.co.kr/">THE SMC GROUP</a> FE developer intern</sub></div>
   <div><sub>🏆 '23 숭실대 IT프로젝트 - IT대학 학부장상 대상</sub></div>
