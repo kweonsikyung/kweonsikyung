@@ -1,8 +1,5 @@
-> I am a software developer <br />
-specializing in Front-End, SEO, System Architecture, and Cloud. <br />
-Please don’t hesitate to contact me! 😊
 <details>
-  <summary><b>I'm here!🌈🔥🌊🍔🏝️</b></summary>
+  <summary><b>Hi, I'm here!🌈🔥🌊🍔🏝️</b></summary>
   <div><sub>🔥 '25 Cloudclub 7th, 8th Member <code>-ing</code></sub></div>
   <div><sub>📚 '25 <a href="https://learning.sap.com/certifications/sap-certified-associate-back-end-developer-abap-cloud">SAP Certified Associate - Back-End Developer - ABAP Cloud</a></sub></div>
   <div><sub>📊 '25 SQLD</sub></div>
@@ -19,6 +16,9 @@ Please don’t hesitate to contact me! 😊
   <div><sub>👩🏻‍💻 '22 HCI Lab Engineer</sub></div>
 </details>
 
+> I am a software developer <br />
+specializing in Front-End, SEO, System Architecture, and Cloud. <br />
+Please don’t hesitate to contact me! 😊 <br />
 
 <a href="https://github.com/devxb/gitanimals">
 <img
