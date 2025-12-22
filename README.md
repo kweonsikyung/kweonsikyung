@@ -2,6 +2,7 @@
   <summary><b>Hi, I'm here!🌈🔥🌊🍔🏝️</b></summary>
   <div><sub>🏆 '25 카카오 X 한국관광공사 공모전 - 한국관광공사상 우수상</sub></div>
   <div><sub>🏆 '25 숭실대 IT프로젝트 - IT대학 학부장상 대상</sub></div>
+  <div><sub>🔥 '25 AI Summer Shcool 수료, University of Southern California</sub></div>
   <div><sub>🔥 '25 Cloudclub 7th, 8th Member </sub></div>
   <div><sub>📚 '25 <a href="https://learning.sap.com/certifications/sap-certified-associate-back-end-developer-abap-cloud">SAP Certified Associate - Back-End Developer - ABAP Cloud</a></sub></div>
   <div><sub>📊 '25 SQLD</sub></div>
