@@ -5,9 +5,9 @@
   <div><sub>HCI Lab | FE Developer Intern (2022.11 - 2023.02)</sub></div>
   <br/>
   <div>🏆 Awards</sub></div>
-  <div><sub>숭실대 IT프로젝트 대상(2025, 2023), 최우수상(2024)</sub></div>
+  <div><sub>숭실대 IT프로젝트 <b>대상(2025, 2023), 최우수상(2024)</sub></b></div>
   <div><sub>한국관광공사 관광데이터 공모전, 우수상(2025)</sub></div>
-  <div><sub>스마트해상물류경진대회, 해양수산부 장관상(2024)</sub></div>
+  <div><sub>스마트해상물류경진대회, <b>해양수산부 장관상(2024)</b></sub></div>
   <div><sub>서울시 열린데이터광장 앱/웹 경진대회, 서울시 우수상(2023)</sub></div>
   <div><sub>한국관광공사 관광데이터 공모전, 장려상(2023)</sub></div>
   <br/>
@@ -23,3 +23,12 @@
   <div><sub>UMC (MakeUs Challenge) | Springboot Member (2023)</sub></div>
   <div><sub>신세계I&C 코딩교실 교육멘토 (2022)</sub></div>
 
+  
+  <br/>
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/kweonsikyung"
+    width="600"
+    height="300"
+  />
+  </a>
