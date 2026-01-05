@@ -1,5 +1,5 @@
 ## Hi, I'm Sikyung 🫶🏻
-
+ 
 <div>👩🏻‍💻 Work</div>
 <div><sub>LogiInsight | FE Developer (2025.09 - ing)</sub></div>
 <div><sub><a href="https://thesmc.co.kr/">THE SMC GROUP</a> | FE Developer Intern (2023.07 - 2023.12)</sub></div>
