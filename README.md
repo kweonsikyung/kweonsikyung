@@ -33,23 +33,23 @@ If you have any questions, please do not hesitate to contact me! 😊
 * 한국관광공사 관광데이터 공모전 장려상 (2023)
 
 ### 📝 Education & Certifications
-* University of Southern California | AI Summer Camp (2025)
+* University of Southern California, AI Summer Camp (2025)
 <br/>&nbsp;&nbsp;
 <sup>YOLO 기반 Road Damage Detection, NMS & WBF 비교를 통한 객체 탐지 정확도 개선</sup>
 
-* 하나금융그룹 | 하나디지털파워온 4기
+* 하나금융그룹, 하나디지털파워온 4기
 <br/>&nbsp;&nbsp;
 <sup>소액 외화 투자 플랫폼 개발 PM/DE, 스프링부트 기반 핀테크 서비스 개발 과정 수료</sup>
 
-* SAP | Back-End Developer - ABAP Cloud (2025)
+* SAP, Back-End Developer - ABAP Cloud (2025)
 
-* Kdata | SQLD (2025)
+* Kdata, SQLD (2025)
 
 ### 🎨 Communities
-* [Cloudclub](https://www.cloudclub.kr/) | 7th, 8th Member
+* [Cloudclub](https://www.cloudclub.kr/) 7th, 8th Member
 <br/>&nbsp;&nbsp;<sup>[오픈소스](https://github.com/cloud-club/dive-deep-open-source/tree/main/jest), [Docker, K8s](https://github.com/cloud-club/08th-docker-k8s-season-2), [CS 스터디](https://github.com/cloud-club/computer-deep-dive-study/blob/main/week06/sikyung/README.md)</sup>
-* GDSC | Web/Mobile Member (2022 - 2024)
-* UMC | Springboot Member (2023)
+* GDSC, Web/Mobile Member (2022 - 2024)
+* UMC, Springboot Member (2023)
 * 신세계I&C 주관 코딩 교육(2022 - 2023), KT 주관 코딩 교육(2024)
 
 ### 🛠 Tech Stack
